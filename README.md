@@ -33,7 +33,6 @@ I'm a **Full Stack Developer** and **Tech Enthusiast** passionate about building
 
 ## 🌱 Currently Learning
 - PostgreSQL
-- 
 - CI/CD with GitHub Actions
 
 ## 🧠 Interests
