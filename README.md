@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peris Wainaina
 
-I'm a **Full Stack Developer** and **Tech Enthusiast** passionate about building projects that solve real-world problems and create impact. I enjoy turning ideas into scalable, efficient, and user-friendly solutions—both on web and mobile platforms.
+I'm a **Full Stack Developer** and **Tech Enthusiast** passionate about building projects that solve real-world problems and create impact. I enjoy turning ideas into scalable, efficient, and user-friendly solutions for both on web and mobile platforms.
 
 ## 💼 Technical Skills
 ### 🖥️ Frontend
