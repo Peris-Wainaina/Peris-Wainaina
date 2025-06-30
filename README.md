@@ -2,6 +2,10 @@
 
 I'm a **Full Stack Developer** and **Tech Enthusiast** passionate about building projects that solve real-world problems and create impact. I enjoy turning ideas into scalable, efficient, and user-friendly solutions for both on web and mobile platforms.
 
+## 🌐 Portfolio
+Check out my portfolio: [periswainaina.vercel.app](https://periswainaina.vercel.app)
+
+
 ## 💼 Technical Skills
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
